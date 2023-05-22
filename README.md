@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Grant Terdoslavich, a fullstack dev/software engineer working out of Queens, NYC
 
 <!--
 **CrissCross56/CrissCross56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
