@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Grant Terdoslavich, a fullstack dev/software engineer working out of Queens, NYC
 
 You can reach me through my [Linkedin](https://www.linkedin.com/in/grant-terdoslavich-363134127/) or shoot me an email at grant.terdoslavich@gmail.com.
-Want to check out some of my work, here's my portfolio: 
+Want to check out some of my work, here's my portfolio: https://grantterdoslavichportfolio.netlify.app 
 <!--
 **CrissCross56/CrissCross56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
